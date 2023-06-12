@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Vježbe</title>
+  </head>
+  <body>
+    <h1>Vježbe</h1>
+    <h2>Vektorska grafika</h2>
+    <p>Ovo su vježbe koje sam napravila u Adobe Illustratoru. Može se vidjeti kako ilustracije postaju sve složenije korištenjem novih alata.<br>
+     </p>
+    <img src="vjezba2 (2)_page-0001.jpg" alt="">
+    <img src="trecavjezba_page-0001.jpg" alt="">
+    <img src="trecavjezba_page-0002.jpg" alt="">
+    <img src="cetvrta1_page-0001.jpg" alt="">
+    <img src="cetvrta2_page-0001.jpg" alt="">
+
+  </body>
+</html>
